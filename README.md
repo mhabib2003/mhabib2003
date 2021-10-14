@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Michael Habib @mhabib2003
-- 👀 I’m interested in robotics, BME, music production, and space tech.
-- 🌱 I’m currently studying Electrical and Computer Engineering (ECE) and CS.
-- 📫 How to reach me : Email: michael.habib@duke.edu
+Hi, I’m Michael Habib @mhabib2003
+I’m interested in robotics, BME, music production, and space tech.
+I’m currently studying Electrical and Computer Engineering (ECE) and CS.
+Feel free to reach out via email: michael.habib@duke.edu
 
 <!---
 mhabib2003/mhabib2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
